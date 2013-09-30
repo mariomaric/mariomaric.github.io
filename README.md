@@ -1,4 +1,3 @@
-mariomaric.github.io
-====================
+# mariomaric.net
 
 Personal web page.
