@@ -1,3 +1,3 @@
 # mariomaric.net
 
-Personal web page.
+Personal webpage.
